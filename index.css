@@ -1,0 +1,40 @@
+body{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.d1{
+    background-color:rgb(255, 154, 255);
+    height: 100px;
+    text-align: center;
+    font-size: 65px;
+    font-style: italic;
+}
+    
+.d2{
+    background-color: rgb(165, 29, 165);
+    height: 50px;
+    text-align:center;
+    font-size: 30px;
+    color: white;
+}
+
+.d3{
+    background-color: darkgray;
+    height: 550px;
+    padding-left: 10px;
+    font-size: 20px;
+    color:white;
+}
+
+.d4{
+    background-color:rgb(241, 157, 241);
+    text-align: center;
+    height: 50px;
+    font-size: 35px;
+}
+
+.d1,.d2,.d3,.d4{
+    padding-top: 10px;
+}
